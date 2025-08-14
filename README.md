@@ -30,20 +30,17 @@
 
 ## 🐍 My GitHub Contribution Snake
 
-<p align="center">
-  <!-- Light mode -->
-  <img src="https://harleen05.github.io/harleen05/github-snake.svg#gh-light-mode-only" alt="GitHub Snake Light" />
-  
-  <!-- Dark mode -->
-  <img src="https://harleen05.github.io/harleen05/github-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />
-</p>
+<!-- Light mode SVG -->
+![GitHub Snake Light](https://harleen05.github.io/harleen05/github-snake.svg#gh-light-mode-only)
 
+<!-- Dark mode SVG -->
+![GitHub Snake Dark](https://harleen05.github.io/harleen05/github-snake-dark.svg#gh-dark-mode-only)
+
+<!-- Always-animated Ocean GIF -->
 <p align="center">
-  <!-- Ocean waves GIF -->
   <img src="https://harleen05.github.io/harleen05/ocean.gif" alt="GitHub Snake Ocean Animation" />
 </p>
 
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harleen05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
