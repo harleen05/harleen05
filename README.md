@@ -33,9 +33,6 @@
 <!-- Light mode SVG -->
 ![GitHub Snake Light](https://harleen05.github.io/harleen05/github-snake.svg#gh-light-mode-only)
 
-<!-- Dark mode SVG -->
-![GitHub Snake Dark](https://harleen05.github.io/harleen05/github-snake-dark.svg#gh-dark-mode-only)
-
 <!-- Always-animated Ocean GIF -->
 <p align="center">
   <img src="https://harleen05.github.io/harleen05/ocean.gif" alt="GitHub Snake Ocean Animation" />
