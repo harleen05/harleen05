@@ -4,6 +4,10 @@
 **harleen05/harleen05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?weight=500&color=F70D0D&lines=Hello!+I+am+Harleen." alt="Typing SVG" />
+</h1>
+
 # 💫 About Me:
 👋 Hi, I’m Harleen<br>💻 Aspiring Developer | 🌱 Learning AI & Web Development<br>🚀 Building beginner-to-advanced projects to sharpen my skills<br>📚 Passionate about problem-solving, open-source, and creating tools that help people in daily life
 
