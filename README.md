@@ -1,11 +1,11 @@
-## Hi there 👋
+
 
 <!--
 **harleen05/harleen05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?weight=500&color=F70D0D&lines=Hello!+I+am+Harleen." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?weight=500&color=FC8EAC&lines=Hello!+I+am+Harleen." alt="Typing SVG" />
 </h1>
 
 # 💫 About Me:
