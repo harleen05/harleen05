@@ -11,6 +11,9 @@
 # 💫 About Me:
 👋 Hi, I’m Harleen<br>💻 Aspiring Developer | 🌱 Learning AI & Web Development<br>🚀 Building beginner-to-advanced projects to sharpen my skills<br>📚 Passionate about problem-solving, open-source, and creating tools that help people in daily life
 
+![Profile view counter](https://komarev.com/ghpvc/?username=harleen05)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harleen-kaur-728a80322/) 
 
