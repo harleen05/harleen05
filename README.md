@@ -48,6 +48,8 @@
 ## 📈 Contribution Graph
 [![Harleen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harleen05&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![trophies](https://github-profile-trophy.vercel.app/?username=harleen05&theme=discord)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harleen05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
