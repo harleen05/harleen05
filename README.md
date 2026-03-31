@@ -52,14 +52,28 @@
 
 
 # 📊 GitHub Stats:
-![trophies](https://github-profile-trophy.vercel.app/?username=harleen05&theme=discord)
 
-![](https://github-readme-stats.vercel.app/api?username=harleen05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harleen05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harleen05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=harleen05&theme=radical&no-frame=true&no-bg=true&margin-w=8)
 
+---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📈 Contribution Stats
+
+<!-- Total Contributions + General Stats -->
+![](https://github-readme-stats.vercel.app/api?username=harleen05&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+---
+
+## 🔥 Current Streak
+
+![](https://streak-stats.demolab.com?user=harleen05&theme=radical&hide_border=true)
+
+---
+
+## 📊 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harleen05&layout=compact&theme=radical&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harleen05&icon=0&color=0)](https://visitcount.itsvg.in)
