@@ -48,13 +48,9 @@
 ## 📈 Contribution Graph
 [![Harleen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harleen05&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# 📊 GitHub Stats:
-
 
 ## 🔥 Current Streak
 <img src="https://streak-stats.demolab.com?user=harleen05&theme=radical&hide_border=true&cache_seconds=86400" />
-
----
 
 
 ---
