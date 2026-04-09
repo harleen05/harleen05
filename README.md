@@ -52,7 +52,6 @@
   <img src="https://harleen05.github.io/harleen05/ocean.gif" alt="GitHub Snake Ocean Animation" />
 </p>
 
-[![harleen05's Stats](https://gitcanvas-api.vercel.app/api/stats?hide_followers=true&username=harleen05)](https://github.com/harleen05)
 
 ## 📈 Contribution Graph
 [![Harleen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harleen05&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
