@@ -54,6 +54,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harleen05&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harleen05&layout=donut)
+
 
 ## 📈 Contribution Graph
 [![Harleen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harleen05&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
