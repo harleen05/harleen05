@@ -44,7 +44,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260" />
 
-&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm **Harleen** — a passionate developer from India
+&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm **Harleen**, currently BTech student at IGDTUW.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Aspiring Developer on a mission to build meaningful things
 
@@ -88,7 +88,7 @@
     </linearGradient>
   </defs>
   <line x1="0" y1="20" x2="125" y2="20" stroke="url(#g2)" stroke-width="1"/>
-  <text x="200" y="26" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#ff85a1" letter-spacing="4">CURRENTLY</text>
+ 
   <line x1="275" y1="20" x2="400" y2="20" stroke="url(#g2)" stroke-width="1"/>
 </svg>
 
