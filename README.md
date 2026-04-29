@@ -94,17 +94,6 @@
 
 <br/><br/>
 
-![Studying](https://img.shields.io/badge/studying-AI%20%26%20Machine%20Learning-ff85a1?style=flat-square&labelColor=1a0a1a)
-![Working On](https://img.shields.io/badge/working%20on-Full%20Stack%20Projects-c77dff?style=flat-square&labelColor=1a0a1a)
-![Exploring](https://img.shields.io/badge/exploring-Open%20Source-ffb3c6?style=flat-square&labelColor=1a0a1a)
-![Fun Fact](https://img.shields.io/badge/fun%20fact-I%20debug%20with%20coffee-a78bfa?style=flat-square&labelColor=1a0a1a)
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="68%" />
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="480" />
 
 </div>
