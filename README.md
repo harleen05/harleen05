@@ -54,7 +54,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harleen05&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harleen05&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harleen05&theme=tokyonight)
 
 
 ## 📈 Contribution Graph
