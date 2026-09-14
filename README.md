@@ -127,13 +127,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harleen05&show_icons=true&theme=radical&border_color=FF85A1&bg_color=0d0117&title_color=ff85a1&icon_color=c77dff&text_color=ffe0ef&hide_border=false&border_radius=12&rank_icon=github&cache_seconds=86400" height="180" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harleen05&show_icons=true&theme=radical&border_color=FF85A1&bg_color=0d0117&title_color=ff85a1&icon_color=c77dff&text_color=ffe0ef&hide_border=false&border_radius=12&rank_icon=github&line_height=32&cache_seconds=86400" height="210" />
 &nbsp;
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harleen05&theme=radical&border_color=FF85A1&bg_color=0d0117&title_color=ff85a1&text_color=ffe0ef&hide_border=false&border_radius=12&layout=compact&langs_count=8&cache_seconds=86400" height="180" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harleen05&theme=radical&border_color=FF85A1&bg_color=0d0117&title_color=ff85a1&text_color=ffe0ef&hide_border=false&border_radius=12&layout=compact&langs_count=8&cache_seconds=86400" height="210" />
 
 <br/>
 
-<sub>the circular badge in the top-right of the stats card (e.g. <b>A+</b>, <b>B+</b>) is GitHub's composite grade across commits, PRs, issues, reviews & stars — the rows above it break out the exact commit / PR / issue counts.</sub>
+<sub>the stats card lists <b>Total Stars, Total Commits, Total PRs, Total Issues</b> and <b>Contributed to</b> as separate rows; the circular badge in its corner (e.g. <b>A+</b>, <b>B+</b>) is GitHub's composite grade across all of those.</sub>
 
 <br/><br/>
 
