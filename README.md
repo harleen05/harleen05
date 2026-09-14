@@ -127,7 +127,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harleen05&show_icons=true&theme=radical&border_color=FF85A1&bg_color=0d0117&title_color=ff85a1&icon_color=c77dff&text_color=ffe0ef&hide_border=false&border_radius=12&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=harleen05&show_icons=true&theme=radical&border_color=FF85A1&bg_color=0d0117&title_color=ff85a1&icon_color=c77dff&text_color=ffe0ef&hide_border=false&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleen05&theme=radical&border_color=FF85A1&bg_color=0d0117&title_color=ff85a1&text_color=ffe0ef&hide_border=false&border_radius=12&layout=compact&langs_count=8" height="180" />
 
@@ -143,22 +143,30 @@
 
 <br/>
 
-<h2 align="center">📈 Activity</h2>
+<h2 align="center">🏅 Grade & Contributions</h2>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harleen05&theme=react-dark&hide_border=true&area=true&area_color=c77dff&color=ffe0ef&line=ff85a1&point=ffb3c6&bg_color=0d0117&radius=6" width="95%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harleen05&theme=radical" height="150"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harleen05&theme=radical" height="200"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harleen05&theme=radical" height="200"/>
+
+<br/><br/>
+
+<sub>the circular rank badge on the stats card above (e.g. <b>A+</b>, <b>B+</b>) is GitHub's composite score across commits, PRs, issues, reviews & stars — and the "Stats" card breaks out exact PR / issue / commit counts.</sub>
+
 </div>
 
 <br/>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">📈 Activity</h2>
 
 <div align="center">
-
-![GitHub Snake Light](https://harleen05.github.io/harleen05/github-snake.svg#gh-light-mode-only)
-
-<img src="https://harleen05.github.io/harleen05/ocean.gif" alt="GitHub Snake Ocean Animation" width="95%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harleen05&theme=react-dark&hide_border=true&area=true&area_color=c77dff&color=ffe0ef&line=ff85a1&point=ffb3c6&bg_color=0d0117&radius=6" width="95%" />
 </div>
 
 <br/>
