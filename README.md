@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=28&duration=2800&pause=900&color=FF85A1&center=true&vCenter=true&width=700&lines=B.Tech+%40+IGDTUW%2C+ECE+with+AI;Building+with+ML%2C+NLP+%26+Computer+Vision;Co-founder+%26+Co-author+on+research+%2B+shipped+products;Open+Source+Enthusiast+%C2%B7+Forever+Curious" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=28&duration=2800&pause=900&color=FF85A1&center=true&vCenter=true&width=700&lines=B.Tech+%40+IGDTUW;Building+with+ML%2C+NLP+%26+Computer+Vision;Open+Source+Enthusiast+%C2%B7+Forever+Curious" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -34,11 +34,11 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260" />
 
-- 🎓 **B.Tech, Electronics & Communication Engineering with AI** @ IGDTUW, Delhi
+- 🎓 B.Tech @ IGDTUW, Delhi
 - 🧠 Building across **ML, NLP, Computer Vision & Reinforcement Learning**
-- 🚀 Co-founder / co-author on research and product work with a tight-knit team
+- 🚀 Co-author on research and product work with a tight-knit team
 - 🛠️ I like turning half-formed ideas into things that actually ship
-- 🌱 Always learning something new — right now that's **advanced AI systems & web dev**
+- 🌱 Always learning something new, right now that's **advanced AI systems**
 - 💬 Ask me about anything from a messy dataset to a messier deployment
 - ⚡ Fun fact: I'd rather debug at 2am than leave a bug unsolved overnight
 
@@ -127,13 +127,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harleen05&show_icons=true&theme=radical&border_color=FF85A1&bg_color=0d0117&title_color=ff85a1&icon_color=c77dff&text_color=ffe0ef&hide_border=false&border_radius=12&rank_icon=github&line_height=32&cache_seconds=86400" height="210" />
+<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harleen05&show_icons=true&theme=radical&border_color=FF85A1&bg_color=0d0117&title_color=ff85a1&icon_color=c77dff&text_color=ffe0ef&hide_border=false&border_radius=12&rank_icon=github&line_height=32&cache_seconds=86400" height="210" />
 &nbsp;
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harleen05&theme=radical&border_color=FF85A1&bg_color=0d0117&title_color=ff85a1&text_color=ffe0ef&hide_border=false&border_radius=12&layout=compact&langs_count=8&cache_seconds=86400" height="210" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=harleen05&theme=radical&border_color=FF85A1&bg_color=0d0117&title_color=ff85a1&text_color=ffe0ef&hide_border=false&border_radius=12&layout=compact&langs_count=8&cache_seconds=86400" height="210" /> -->
 
-<br/>
-
-<sub>the stats card lists <b>Total Stars, Total Commits, Total PRs, Total Issues</b> and <b>Contributed to</b> as separate rows; the circular badge in its corner (e.g. <b>A+</b>, <b>B+</b>) is GitHub's composite grade across all of those.</sub>
+<!-- <sub>the stats card lists <b>Total Stars, Total Commits, Total PRs, Total Issues</b> and <b>Contributed to</b> as separate rows; the circular badge in its corner (e.g. <b>A+</b>, <b>B+</b>) is GitHub's composite grade across all of those.</sub> -->
 
 <br/><br/>
 
@@ -141,7 +139,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=harleen05&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=7" width="95%" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=harleen05&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=7" width="95%" /> -->
 
 </div>
 
